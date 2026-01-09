@@ -9,12 +9,6 @@
 * **Zdarma a efektivní:** Je zdarma ke stažení na [www.php.net](https://www.php.net) a efektivně běží na serveru.
 * **Snadné učení:** Ideální jako první server-side jazyk pro začátečníky.
 
-### Co byste měli umět předem
-Před zahájením práce s PHP je vhodné mít základní znalosti:
-* HTML
-* CSS
-* JavaScript
-
 ### Co je to PHP soubor?
 * Má příponu `.php`.
 * Může obsahovat text, HTML, CSS, JavaScript a PHP kód.
